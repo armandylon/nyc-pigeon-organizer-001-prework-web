@@ -1,3 +1,5 @@
 def nyc_pigeon_organizer(data)
-  # write your code here!
+  data = Hash.new
+  data.each {|key| key == 7 }
+    
 end
